@@ -52,9 +52,7 @@ sequence.gb<br>
 slides<br>
 vader.txt<br>
 
-mkdir homework02
-
-
+	mkdir homework02
 	 echo My username is >> question01.txt
 	 echo $(whoami) >> question01.txt
 	 echo My home directory is >> question01.txt
