@@ -80,5 +80,5 @@ tfcb_2023/homeworks/homework02/list.txt
 
 You can make the contents of those files whatever you want (hint: slide 9... )
 
-mkdir question02 ; for x in `cat list.txt` ; do echo hello >> file$x.txt ; mv file$x.txt  question02 ; done
+	mkdir question02 ; for x in `cat list.txt` ; do echo hello >> file$x.txt ; mv file$x.txt  question02 ; done
 
